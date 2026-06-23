@@ -1,4 +1,4 @@
-# File: ft_plant_growth.py
+# File: ft_plant_factory.py
 # Description: creation and print 5 plants
 # Author: Chichu
 
